@@ -2,7 +2,7 @@
 
 Easily track and manage dashboard dependencies in **Core UI** and **Platform Analytics**.  
 
-![](Media/Dashboard_reports_gif)
+![](Media/Dashboard_reports_gif.gif)
 
 ## What it does  
 - Quickly see which reports/filters/widgets are used on a dashboard.  
