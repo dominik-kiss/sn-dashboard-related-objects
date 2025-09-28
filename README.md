@@ -9,8 +9,13 @@ Easily track and manage dashboard dependencies in **Core UI** and **Platform Ana
 - Find all dashboards where a specific report or widget is referenced.  
 
 ## How it works  
-- A simple database view maps the right table relationships.  
-- Optional UI actions make it easy to navigate dependencies directly from the interface.  
+- A simple database view maps the right table relationships.
+
+![](Media/dashboard_report_dbview.PNG)
+
+- Optional UI actions make it easy to navigate dependencies directly from the interface.
+
+![](Media/dashboard_report_ui_action.PNG)
 
 ## Why  
 Understanding dashboard dependencies saves time, reduces errors, and makes it easier to maintain and optimize reporting.  
